@@ -1,0 +1,40 @@
+body {
+    background: url('../images/backgroundimg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+
+.banner{
+    width: 700px;
+    height: 300px;  
+}
+
+.picture{
+    width: 700px;
+    height: 300px;
+}
+
+.content{
+    width: 700px;
+}
+
+.vid1{
+    width: 300px;
+    margin: 25px;
+}
+.vid2{
+    width: 300px;
+    margin: 25px;
+}
+
+.overlay{
+    position: absolute;
+    
+}
+
+.image{
+    width: 700px;
+    height: 300px;
+}
